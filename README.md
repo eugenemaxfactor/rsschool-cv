@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/eugenemaxfactor/rsschool-cv/cv
