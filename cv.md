@@ -1,4 +1,4 @@
-![Image](/rsschool-cv/Images/Dress_in_business-casual_clothing_202607182107.jpeg)
+![Eugene Pivovarov](Images/avatar.jpeg)
 
 # Eugene Pivovarov
 
