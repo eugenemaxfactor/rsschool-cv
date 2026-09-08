@@ -1,4 +1,4 @@
-![Eugene Pivovarov](Images/avatar.jpeg)
+<img src="Images/avatar.jpeg" alt="Eugene Pivovarov" width="160">
 
 # Eugene Pivovarov
 
