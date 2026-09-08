@@ -4,7 +4,7 @@
 
 ## Contact Information
 
-- **Location:** Poland
+- **Location:** Warsaw, Poland
 - **Phone:** +995 500 50 34 18
 - **Email:** eugene.pivovarius@gmail.com
 - **Website:** [quantixstudio.com](https://quantixstudio.com)
