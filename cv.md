@@ -1,48 +1,92 @@
-![Image](/rsschool-cv/Images/imgonline-com-ua-Resize-oZMboDFVJRnhjUw.jpg)
-## Eugene Pivovarov
-***
-### Junior Frontend Developer
-***
-### Contact information:
+![Image](/rsschool-cv/Images/Dress_in_business-casual_clothing_202607182107.jpeg)
 
-**Phone:** +995500503418\
-**Email:** eugene.maxfactor@yandex.by\
-**Telegram:** @max_factor5\
-[LinkedIn](https://www.linkedin.com/in/eugene-pivovarov-2896221a5/)
-***
-### Briefly About Myself:
+# Eugene Pivovarov
 
-I am a web developer with 4 years of experience in no-code development, using platforms like Bubble and Webflow. I specialize in creating CRM systems. Currently, I am looking to deepen my knowledge by studying fundamental web development concepts and programming. My strengths include attention to detail, the ability to quickly learn new things, and a commitment to continuous improvement. Despite the lack of commercial experience in traditional programming, I actively work on personal projects and strive to apply the knowledge I have gained in practice.
-<br>
-***
-### Skills and Proficiency:
-* bubble;
-* webflow;
-* Git, GitHub;
-* VS Code;
-* HTML5, CSS3;
-* Airtable;
-* Notion
-***
-### Code example:
-    
-    function addNumbers(a, b) {
-    return a + b;
-    }
-    const result = addNumbers(3, 5);
-    console.log(result);
+## Contact Information
 
+- **Location:** Poland
+- **Phone:** +995 500 50 34 18
+- **Email:** eugene.pivovarius@gmail.com
+- **Website:** [quantixstudio.com](https://quantixstudio.com)
+- **GitHub:** [eugenemaxfactor](https://github.com/eugenemaxfactor)
 
-### Languages:
-* Russian - native;
-* English - upper-intermediate
-***
-### Education:
-* Belarus State Economic University. Specialization: finance and credit;
-* Courses:
-    * Welovenocode Academy – Web and mobile apps development on bubble;
-    * HTML and CSS Tutorials on the [code-basics](https://code-basics.com/ru) (completed);
-    * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-***
-### Experience:
-* [Instrumento](https://app.instrumento.io/signup_login?p=2) Username:1 Password:1
+## About Me
+
+I am an AI Automation Engineer, Product Engineer, and Systems Integrator with 4+ years of experience building production Bubble.io applications, business systems, API integrations, and AI-powered automations.
+
+My current focus is web development, automation, and fullstack engineering. I work with Bubble.io, n8n, Supabase, JavaScript, Claude Code, and OpenAI Codex. Before moving into software development, I spent 8 years in financial and investment analysis, which helps me understand business logic and product requirements deeply.
+
+I enjoy building practical systems, improving workflows, integrating external services, and learning new engineering tools through real projects.
+
+## Skills
+
+- **Web:** HTML, CSS, JavaScript, REST APIs, OAuth 2.0, JSON
+- **No-code / Low-code:** Bubble.io, Webflow
+- **Automation:** n8n, webhooks, AI agents, multi-step automation
+- **Backend / Database:** Supabase, Auth, Storage, SQL, RLS, triggers
+- **Payments:** Stripe subscriptions, Stripe webhooks, secure checkout, PayPal
+- **AI Tooling:** Claude Code, OpenAI Codex
+- **Tools:** Git, GitHub, Figma, Postman, dbdiagram.io, Airtable, Notion
+
+## Code Example
+
+```javascript
+function calculateTotalPrice(items) {
+  return items.reduce((total, item) => {
+    return total + item.price * item.quantity;
+  }, 0);
+}
+```
+
+## Work Experience and Projects
+
+### Quantix Studio
+
+**Co-Founder & Lead Developer**  
+2024 - Present
+
+Co-founded a web development and AI automation studio. I build production web applications, API integrations, backend workflows, and AI-powered automation systems.
+
+### Helpview.so
+
+**Technologies:** Bubble.io, JavaScript, CSS, AI integrations
+
+Production SaaS for documentation, knowledge management, and customer self-service. I worked on database architecture, backend workflows, frontend logic, API integrations, and custom JavaScript components such as dropdowns, custom scrollbars, and preview scaling.
+
+### Astute Wheel
+
+**Senior Bubble.io Developer**  
+Jan 2022 - Present
+
+Worked on a SaaS platform for Australian financial advisers. I developed product sections end-to-end, including database schema, frontend, backend workflows, financial calculations, privacy rules, Stripe subscriptions, webhook integrations, and document processing with n8n and Supabase Storage.
+
+### WeLoveNoCode
+
+**Bubble.io Developer**  
+2022
+
+Delivered MVPs for external clients, including contract management and student information systems. I worked on responsive UI, database architecture, admin workflows, integrations, and multi-role privacy rules.
+
+### Selected Projects
+
+- **ITU Design Studio:** e-commerce platform for designer interior products with storefront, admin panel, Google OAuth, wishlist, order flow, Supabase RLS, and n8n workflows.
+- **Cheers Contracts:** SaaS for corporate contract management with templates, comments, e-signing, KPI dashboards, Stripe, Mailchimp, and Google Analytics.
+- **Crypto Price Chart:** CoinGecko API integration for Bitcoin market visualization using Bubble.io, JavaScript, and Chart.js.
+
+## Education
+
+- **Belarus State Economic University** - Finance & Credit, 2009-2013
+- **RS School** - Fullstack Engineering Course, 2026
+
+## Courses and Certifications
+
+- n8n Official Certification - 4 certificates across 3 modules and overall certification, 2026
+- Arnold Oberleiter - AI Automation: LLM applications & AI agents with n8n & APIs, 2025
+- 5 Min AI - Web application development on Supabase & n8n, 2025
+- WeLoveNoCode Academy - Bubble Websites & Mobile Apps, 2021
+
+## English
+
+**Level:** B2
+
+I read technical documentation, work with English-language interfaces and tools, and use English in professional communication and learning materials.
